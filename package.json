@@ -1,0 +1,28 @@
+{
+  "name": "simplenodeexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasRedder/SimpleNodeExample.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Thomas Redder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasRedder/SimpleNodeExample/issues"
+  },
+  "homepage": "https://github.com/ThomasRedder/SimpleNodeExample#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0"
+  }
+}
